@@ -71,7 +71,7 @@
             </div>
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/library.png"/>
+                  <img width="150px" src="imgs/library.png"/>  
                   <h4>Visit Us</h4>
                   <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                </center>
